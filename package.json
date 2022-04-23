@@ -1,0 +1,19 @@
+{
+  "name": "feeling-yo-shelf-booksearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hernajor133/Feeling-Yo-Shelf-BookSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hernajor133/Feeling-Yo-Shelf-BookSearch/issues"
+  },
+  "homepage": "https://github.com/hernajor133/Feeling-Yo-Shelf-BookSearch#readme"
+}
