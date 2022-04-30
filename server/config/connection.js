@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 mongoose.connect(
-  process.env.MONGODB_URI || 'mongodb://localhost:27017/feeling-yo-shelf-booksearch',
+  process.env.MONGODB_URI || 'mongodb://localhost:27017/Feeling-Yo-Shelf-BookSearch',
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
