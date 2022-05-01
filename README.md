@@ -8,7 +8,7 @@ Google Books API built with a restful API, and refactored to be a GraphQL API bu
 
 1. [Installation](#installation)
 2. [Usage](#usage)
-3. [Contributing](#contributing)
+3. [Contributers](#contributers)
 4. [Screen Shots](#screenshots)
 
 ## Installation
@@ -28,7 +28,7 @@ Jordi Hernandez
 ![Screenshot1](./img/front-Page.png)
 ![Screenshot2](./img/Google-Book-Search.png)
 
-### GitHub
+### GitHub/Heroku
 
 [GitHub](https://github.com/hernajor133/Feeling-Yo-Shelf-BookSearch)
-
+[Heroku](https://feeling-yo-shelf-booksearch.herokuapp.com/)
